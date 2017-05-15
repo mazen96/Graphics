@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1494248902 source:c:\users\darklife\documents\graficsassigment\main.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+
